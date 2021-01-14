@@ -13,7 +13,7 @@ class Test_Math(unittest.TestCase):
         self.assertEqual(1, 3-2)
 
     def test_subTwoNum_02(self):
-        self.assertEqual(5, 3-1)
+        self.assertEqual(2, 3-1)
 
 
 unittest.main()
