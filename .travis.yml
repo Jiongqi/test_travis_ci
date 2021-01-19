@@ -5,6 +5,7 @@ install:
   - python --version
   - pip install -U pip
   - pip install -U pytest
+  # add pip install .
 notifications:
   email:
     on_success: never
